@@ -67,7 +67,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- [Evelin Arboleda](evelinarboleda23@gmail.com)
+- [Evelin Arboleda](https://github.com/EveArbol)
 
 ## Acknowledgements
 
