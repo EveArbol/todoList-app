@@ -13,6 +13,7 @@ This is a simple TodoList application built using JavaScript Practice with Vite.
 
 - JavaScript
 - Vite
+- CSS
 
 ## Usage
 
@@ -49,17 +50,8 @@ npm install
 
 npm run dev
 
-2. Open your web browser and navigate to `http://localhost:3000`.
+2. Open your web browser and navigate to `http://localhost:3000` o or any other port configured for the application.
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project.
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the Branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
 
 ## License
 
@@ -67,7 +59,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- [Evelin Arboleda](https://github.com/EveArbol)
+- [Evelin Arboleda](https://github.com/EveArbol) evelinarboleda23@gmail.com
 
 ## Acknowledgements
 
